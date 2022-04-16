@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    text-align: left;
+    background-color: #555;
+    color: #FFF;
+}
+
+table .even{
+    background-color: #856969;
+    color: #FFF;
+}
+
+table .odd{
+    background-color: #678a7f;
+    color: #FFF;
+}
